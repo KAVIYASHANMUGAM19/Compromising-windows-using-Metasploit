@@ -1,5 +1,3 @@
-## Name: NARESH KUMAR V
-## Reg.No: 212223040126
 
 
 # Compromising windows using Metasploit
